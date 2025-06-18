@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://geonarvis.github.io.git/</loc>
+    <lastmod>2025-06-18T17:19:40+01:00</lastmod>
+  </url><url>
+    <loc>https://geonarvis.github.io.git/posts/mypost/</loc>
+    <lastmod>2025-06-18T17:19:40+01:00</lastmod>
+  </url><url>
+    <loc>https://geonarvis.github.io.git/posts/</loc>
+    <lastmod>2025-06-18T17:19:40+01:00</lastmod>
+  </url><url>
+    <loc>https://geonarvis.github.io.git/categories/</loc>
+  </url><url>
+    <loc>https://geonarvis.github.io.git/tags/</loc>
+  </url>
+</urlset>
