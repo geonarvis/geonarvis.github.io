@@ -1,9 +1,9 @@
 {
     "name": "Geonarvis Blog",
     "short_name": "Geonarvis Blog",
-    "start_url": "https://geonarvis.github.io.git/",
+    "start_url": "http://localhost:1313/",
     "theme_color": "#434648",
-    "background_color": "#ffffff",
+    "background_color": "#131418",
     "display": "standalone",
     "icons": [
         {
